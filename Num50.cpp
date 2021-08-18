@@ -23,9 +23,7 @@ int main(){
 			}
 			if(sum>max) max=sum;
 		}
-		
 	}
-	
 	printf("%d", max);
 	return 0; 
 }
